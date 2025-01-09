@@ -16,7 +16,7 @@ public class Main {
     public static void main(String[] args) {
         Main main = new Main();
         main.encrypt("mypassword");
-        main.decrypt("F5HRqtDVfKxT3EUdQ7pdSvdJQ/fVSPC0");
+        main.decrypt("gYylGvqaxf/TzgBv8Q2+Bh1ub33FNthS");
     }
 
     private void encrypt(String plainText) {

@@ -15,7 +15,7 @@ import java.util.Base64;
 
 public class EncryptionHelper {
 
-    private static final String KEY = "E06C1AVLX7P2RTHDM5GW";
+    private static final String KEY = "bNgrv98CGAarHOJ4CzUnJkI0";
 
     private static StandardPBEStringEncryptor standardPBEStringEncryptor = new StandardPBEStringEncryptor();
 
