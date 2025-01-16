@@ -2,8 +2,6 @@ package com.edw.helper;
 
 import org.jasypt.encryption.pbe.StandardPBEStringEncryptor;
 
-import java.util.Base64;
-
 /**
  * <pre>
  *  com.edw.helper.EncryptionHelper
